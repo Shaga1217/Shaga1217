@@ -1,7 +1,11 @@
-# ❄️ Hey there, I'm Shaganjaly! 👋  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header"/>
 
-🎓 Computer Science Student  
-💡 Aspiring Full Stack & Software Engineer  
+---
+
+# <p align="center">❄️ Hey there, I'm Shaganjaly! 👋  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Web+Developer;UI%2FUX+Designer;Future+Software+Engineer" />
+</p>
 
 ---
 
@@ -50,6 +54,9 @@ A categorized digital design services platform that organizes creative services 
 ### 🌐 Personal Portfolio Website
 A responsive developer portfolio showcasing my projects, skills, UI/UX work, and professional journey. Designed with modern UI principles, smooth layouts, and optimized responsiveness across devices.
 
+### 🎮 Ludo Game in C  
+Console-based multiplayer Ludo game implementing structured game logic and modular C architecture.
+
 ---
 
 ## 📖 Currently Learning
@@ -57,15 +64,6 @@ A responsive developer portfolio showcasing my projects, skills, UI/UX work, and
 - React Component Patterns  
 - Middleware & Distributed Systems  
 - Software Design Patterns  
-- AI & Machine Learning Fundamentals  
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shaga1217&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
 
 ---
 
@@ -103,8 +101,12 @@ A responsive developer portfolio showcasing my projects, skills, UI/UX work, and
 ## 🤝 Connect With Me  
 
 <p>
-<a href="https://www.linkedin.com/in/shaganjaly-sivanenthiran-00520a364"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-<a href="mailto:shagana1217@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/shaganjaly-sivanenthiran-00520a364">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:shagana1217@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 </p>
 
 ---
