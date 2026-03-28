@@ -21,7 +21,7 @@
 
 ### 👩‍💻 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,php,js" />
+  <img src="https://skillicons.dev/icons?i=c,dart,python,php,js,cpp" />
 </p>
 
 ### 🌐 Frontend Development  
